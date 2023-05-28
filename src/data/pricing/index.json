@@ -1,0 +1,29 @@
+{
+	"pricingHead": {
+		"title": "Working together to create the next big thing",
+		"subtitle": "OUR PRICING",
+		"description": "Lorem ipsum dolor sit amet consectetur. Rutrum pretium pulvinar ut nec. Ac consequat blandit gravida turpis a risus pharetra amet molestie eget porta."
+	},
+	"monthly": [
+		{
+			"id": 1,
+			"label": "Individual",
+			"description": "Entrepreneurs & small businesses. Managing 1 website."
+		},
+		{
+			"id": 2,
+			"label": "Happy Clients",
+			"value": "700+"
+		},
+		{
+			"id": 3,
+			"label": "Positive Reviews",
+			"value": "1275+"
+		},
+		{
+			"id": 4,
+			"label": "Awards Won",
+			"value": "250+"
+		}
+	]
+}

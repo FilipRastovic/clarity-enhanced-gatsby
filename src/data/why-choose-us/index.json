@@ -1,0 +1,22 @@
+{
+	"whyChooseUs": {
+		"title": "Best agencies choose their clients wisely",
+		"subtitle": "TOP FEATURES",
+		"description": "Lorem ipsum dolor sit amet consectetur. Rutrum pretium pulvinar ut nec. Ac consequat blandit gravida turpis a risus pharetra amet molestie eget.",
+		"whyChooseImg": "../../images/why-choose-us.jpg",
+		"features": [
+			{
+				"id": 1,
+				"icon": "flaticon-advertisement",
+				"title": "Advertising & Branding",
+				"description": "Lorem ipsum dolor sit amet consectetur. Rutrum pretium pulvinar ut nec. Ac consequat blandit gravida turpis a risus pharetra amet molestie."
+			},
+			{
+				"id": 2,
+				"icon": "flaticon-public-relation",
+				"title": "Public Relations",
+				"description": "Lorem ipsum dolor sit amet consectetur. Rutrum pretium pulvinar ut nec. Ac consequat blandit gravida turpis a risus pharetra amet molestie."
+			}
+		]
+	}
+}

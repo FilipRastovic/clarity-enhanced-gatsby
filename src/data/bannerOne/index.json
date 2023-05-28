@@ -1,0 +1,11 @@
+{
+	"banner": {
+		"title": "Give your business a worldwide platform",
+		"subtitle": "CREATIVE AGENCY",
+		"description": "Lorem ipsum dolor sit amet consectetur. Rutrum pretium pulvinar ut nec. Ac consequat blandit gravida turpis arisus pharetra amet molestie. Eget porta diam sit fames.Suspendisse consequat placerat aenean aenean.",
+		"btnTitle": "Discover More",
+		"btnLink": "/about-us",
+		"bannerImage1": "../../images/banner/banner1.png",
+		"bannerImage2": "../../images/banner/banner2.png"
+	}
+}

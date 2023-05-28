@@ -1,0 +1,11 @@
+{
+	"partners": [
+		{ "id": 1, "partnerImg": "../../images/partner/partner1.png" },
+		{ "id": 2, "partnerImg": "../../images/partner/partner2.png" },
+		{ "id": 3, "partnerImg": "../../images/partner/partner3.png" },
+		{ "id": 4, "partnerImg": "../../images/partner/partner4.png" },
+		{ "id": 5, "partnerImg": "../../images/partner/partner5.png" },
+		{ "id": 6, "partnerImg": "../../images/partner/partner6.png" },
+		{ "id": 7, "partnerImg": "../../images/partner/partner7.png" }
+	]
+}

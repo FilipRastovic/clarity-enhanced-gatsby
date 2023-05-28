@@ -1,0 +1,11 @@
+{
+	"quotes": [
+		{
+			"id": 1,
+			"author": "John Smith",
+			"authorImg": "../../images/ceo.jpg",
+			"texts": "As a midsize software development company, we combine the best of both worlds. We have the focus and speed of the small IT outsourcing companies along with the scalability and expertise of the big ones.",
+			"position": "CEO at Envato"
+		}
+	]
+}

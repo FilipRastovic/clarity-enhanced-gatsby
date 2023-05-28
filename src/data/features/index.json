@@ -1,0 +1,33 @@
+{
+	"featureHead": {
+		"title": "Best agencies choose their clients wisely",
+		"subtitle": "TOP FEATURES",
+		"description": "Lorem ipsum dolor sit amet consectetur. Rutrum pretium pulvinar ut nec. Ac consequat blandit gravida turpis a risus pharetra amet molestie eget porta."
+	},
+	"features": [
+		{
+			"id": 1,
+			"icon": "flaticon-box",
+			"title": "Product Engineering",
+			"shortDesc": "Lorem ipsum dolor sit amet consectetur ut. Rutrum pretium pulvinar ut nec. Ato sits consequat blandit gravida.",
+			"description": "Lorem ipsum dolor sit amet consectetur.Pulvinar quam commodo nisl suspendisse auctor gravida mauris. A quis quis amet aliquam tristique sit urna. Diam porttitor sapien lobortis nunc dignissim id adipiscing lacinia mattis. Pellentesque imperdiet ut id consequat elit urna. Neque feugiat nunc sit ultrices. Leo amet luctus elemenm donecgrcc purus. Dui ultrices gravida in vitae porta justo. In suscipit scelerisque condimentum consequat.Sodales nisi scelerisque mollis ut malesuada hendrerit sem elit lacinia. Penatibus molestie tempor odio aliquam aliquet metus duis rhoncus dolor. Nec in fermentum gravida posuere. Ut lobortis commodo faucibus tincidunt nascetur urna. Nunc quis consectetur elit nisi nec convallis convallis et.Sed pharetra pulvinar magna posuere. Ornare nisi nulla est cursus. Vitae suspendisse amet massa orci quis donec nulla. Est porttitor eget lectus nunc amet morbi nunc nisl proin. Ornare dui ac in amet. Gravida tincidunt feugiat phasellus habitant. Tincidunt mi ac.",
+			"url": "product-engineering"
+		},
+		{
+			"id": 2,
+			"icon": "flaticon-ux-design",
+			"title": "UX/UI Design",
+			"shortDesc": "Lorem ipsum dolor sit amet consectetur ut. Rutrum pretium pulvinar ut nec. Ato sits consequat blandit gravida.",
+			"description": "Lorem ipsum dolor sit amet consectetur.Pulvinar quam commodo nisl suspendisse auctor gravida mauris. A quis quis amet aliquam tristique sit urna. Diam porttitor sapien lobortis nunc dignissim id adipiscing lacinia mattis. Pellentesque imperdiet ut id consequat elit urna. Neque feugiat nunc sit ultrices. Leo amet luctus elemenm donecgrcc purus. Dui ultrices gravida in vitae porta justo. In suscipit scelerisque condimentum consequat.Sodales nisi scelerisque mollis ut malesuada hendrerit sem elit lacinia. Penatibus molestie tempor odio aliquam aliquet metus duis rhoncus dolor. Nec in fermentum gravida posuere. Ut lobortis commodo faucibus tincidunt nascetur urna. Nunc quis consectetur elit nisi nec convallis convallis et.Sed pharetra pulvinar magna posuere. Ornare nisi nulla est cursus. Vitae suspendisse amet massa orci quis donec nulla. Est porttitor eget lectus nunc amet morbi nunc nisl proin. Ornare dui ac in amet. Gravida tincidunt feugiat phasellus habitant. Tincidunt mi ac.",
+			"url": "ux-ui-design"
+		},
+		{
+			"id": 3,
+			"icon": "flaticon-data-analysis",
+			"title": "Big Data & Analytics",
+			"shortDesc": "Lorem ipsum dolor sit amet consectetur ut. Rutrum pretium pulvinar ut nec. Ato sits consequat blandit gravida.",
+			"description": "Lorem ipsum dolor sit amet consectetur.Pulvinar quam commodo nisl suspendisse auctor gravida mauris. A quis quis amet aliquam tristique sit urna. Diam porttitor sapien lobortis nunc dignissim id adipiscing lacinia mattis. Pellentesque imperdiet ut id consequat elit urna. Neque feugiat nunc sit ultrices. Leo amet luctus elemenm donecgrcc purus. Dui ultrices gravida in vitae porta justo. In suscipit scelerisque condimentum consequat.Sodales nisi scelerisque mollis ut malesuada hendrerit sem elit lacinia. Penatibus molestie tempor odio aliquam aliquet metus duis rhoncus dolor. Nec in fermentum gravida posuere. Ut lobortis commodo faucibus tincidunt nascetur urna. Nunc quis consectetur elit nisi nec convallis convallis et.Sed pharetra pulvinar magna posuere. Ornare nisi nulla est cursus. Vitae suspendisse amet massa orci quis donec nulla. Est porttitor eget lectus nunc amet morbi nunc nisl proin. Ornare dui ac in amet. Gravida tincidunt feugiat phasellus habitant. Tincidunt mi ac.",
+			"url": "big-data-analytics"
+		}
+	]
+}

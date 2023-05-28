@@ -1,0 +1,106 @@
+{
+	"menus": [
+		{
+			"id": 1,
+			"name": "Home",
+			"pages": [
+				{ "name": "Business Agency", "url": "/", "id": 1 },
+				{ "name": "IT Agency", "url": "/it-agency", "id": 2 },
+				{
+					"name": "Digital Marketing",
+					"url": "/digital-marketing",
+					"id": 3
+				},
+				{
+					"name": "Startup Agency",
+					"url": "/startup-agency",
+					"id": 4
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Services",
+			"pages": [
+				{
+					"name": "Services v1",
+					"url": "/services",
+					"id": 5
+				},
+				{
+					"name": "Services v2",
+					"url": "/services/service-two",
+					"id": 6
+				},
+				{
+					"name": "Services v3",
+					"url": "/services/service-three",
+					"id": 7
+				},
+				{
+					"name": "Services v4",
+					"url": "/services/service-four",
+					"id": 8
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Portfolio",
+			"pages": [
+				{
+					"name": "Portfolio v1",
+					"url": "/portfolio",
+					"id": 9
+				},
+				{
+					"name": "Portfolio v2",
+					"url": "/portfolio/portfolio-two",
+					"id": 10
+				},
+				{
+					"name": "Portfolio v3",
+					"url": "/portfolio/portfolio-three",
+					"id": 11
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "Pages",
+			"pages": [
+				{ "name": "About Us", "url": "/about-us", "id": 12 },
+				{ "name": "Team", "url": "/team", "id": 13 },
+				{ "name": "Pricing", "url": "/pricing", "id": 14 },
+				{ "name": "Feedback", "url": "/feedback", "id": 15 },
+				{ "name": "FAQ", "url": "/faq", "id": 16 },
+				{ "name": "Auth", "url": "/auth", "id": 17 },
+				{
+					"name": "Forgot Password",
+					"url": "/auth/forgot-password",
+					"id": 18
+				},
+				{
+					"name": "Privacy Policy",
+					"url": "/privacy-policy",
+					"id": 19
+				},
+				{
+					"name": "Terms & Conditions",
+					"url": "/terms-condition",
+					"id": 20
+				}
+			]
+		},
+		{
+			"id": 5,
+			"name": "Blog",
+			"pages": [{ "name": "Blog", "url": "/blog", "id": 22 }]
+		},
+		{
+			"id": 6,
+			"name": "Contact Us",
+			"pages": [{ "id": 1, "name": "Contact Us", "url": "/contact-us" }]
+		}
+	]
+}

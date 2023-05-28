@@ -1,0 +1,24 @@
+{
+	"funfacts": [
+		{
+			"id": 1,
+			"label": "Completed Projects",
+			"value": "1500+"
+		},
+		{
+			"id": 2,
+			"label": "Happy Clients",
+			"value": "700+"
+		},
+		{
+			"id": 3,
+			"label": "Positive Reviews",
+			"value": "1275+"
+		},
+		{
+			"id": 4,
+			"label": "Awards Won",
+			"value": "250+"
+		}
+	]
+}

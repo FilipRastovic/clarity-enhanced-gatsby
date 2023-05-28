@@ -1,0 +1,33 @@
+{
+	"projectHead": {
+		"title": "We are your one-stop solutions for building brands",
+		"subtitle": "RECENT PROJECTS",
+		"description": "Lorem ipsum dolor sit amet consectetur. Rutrum pretium pulvinar ut nec. Ac consequat blandit gravida turpis a risus pharetra amet molestie eget porta."
+	},
+	"projects": [
+		{
+			"id": 1,
+			"title": "Digital Marketing",
+			"projectImg": "../../images/projects/project1.jpg",
+			"url": "digital-marketing"
+		},
+		{
+			"id": 2,
+			"title": "Product Engineering",
+			"projectImg": "../../images/projects/project2.jpg",
+			"url": "product-engineering"
+		},
+		{
+			"id": 3,
+			"title": "Company Branding",
+			"projectImg": "../../images/projects/project3.jpg",
+			"url": "company-branding"
+		},
+		{
+			"id": 4,
+			"title": "Illustrations",
+			"projectImg": "../../images/projects/project4.jpg",
+			"url": "illustrations"
+		}
+	]
+}

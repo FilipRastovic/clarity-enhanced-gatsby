@@ -1,0 +1,65 @@
+{
+	"serviceHead": {
+		"title": "We provide creative solutions for your business",
+		"subtitle": "OUR SERVICES",
+		"description": "Lorem ipsum dolor sit amet consectetur. Rutrum pretium pulvinar ut nec. Ac consequat blandit gravida turpis a risus pharetra amet molestie eget porta."
+	},
+	"services": [
+		{
+			"id": 1,
+			"icon": "flaticon-presentation",
+			"title": "Business Strategy",
+			"shortDesc": "Lorem ipsum dolor sit amet consectetur. Rutrum pretium pulvinar ut nec. Ac consequat blandit gravida turpis a risus pharetra amet molestie.",
+			"url": "/services/content/business-strategy"
+		},
+		{
+			"id": 2,
+			"icon": "flaticon-web-programming",
+			"title": "Web Development",
+			"shortDesc": "Lorem ipsum dolor sit amet consectetur. Rutrum pretium pulvinar ut nec. Ac consequat blandit gravida turpis a risus pharetra amet molestie.",
+			"url": "/services/content/web-development"
+		},
+		{
+			"id": 3,
+			"icon": "flaticon-content-management",
+			"title": "Digital Marketing",
+			"shortDesc": "Lorem ipsum dolor sit amet consectetur. Rutrum pretium pulvinar ut nec. Ac consequat blandit gravida turpis a risus pharetra amet molestie.",
+			"url": "/services/content/digital-marketing"
+		},
+		{
+			"id": 4,
+			"icon": "flaticon-curve",
+			"title": "Graphics Design",
+			"shortDesc": "Lorem ipsum dolor sit amet consectetur. Rutrum pretium pulvinar ut nec. Ac consequat blandit gravida turpis a risus pharetra amet molestie.",
+			"url": "/services/content/graphics-design"
+		},
+		{
+			"id": 5,
+			"icon": "flaticon-data",
+			"title": "Data Analysis",
+			"shortDesc": "Lorem ipsum dolor sit amet consectetur. Rutrum pretium pulvinar ut nec. Ac consequat blandit gravida turpis a risus pharetra amet molestie.",
+			"url": "/services/content/data-analysis"
+		},
+		{
+			"id": 6,
+			"icon": "flaticon-coding",
+			"title": "App Development",
+			"shortDesc": "Lorem ipsum dolor sit amet consectetur. Rutrum pretium pulvinar ut nec. Ac consequat blandit gravida turpis a risus pharetra amet molestie.",
+			"url": "/services/content/app-development"
+		},
+		{
+			"id": 7,
+			"icon": "flaticon-taget",
+			"title": "UI & UX Design",
+			"shortDesc": "Lorem ipsum dolor sit amet consectetur. Rutrum pretium pulvinar ut nec. Ac consequat blandit gravida turpis a risus pharetra amet molestie.",
+			"url": "/services/content/ui-ux-design"
+		},
+		{
+			"id": 8,
+			"icon": "flaticon-diagram-1",
+			"title": "Web Branding",
+			"shortDesc": "Lorem ipsum dolor sit amet consectetur. Rutrum pretium pulvinar ut nec. Ac consequat blandit gravida turpis a risus pharetra amet molestie.",
+			"url": "/services/content/web-branding"
+		}
+	]
+}
