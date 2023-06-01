@@ -4,18 +4,7 @@
 			"id": 1,
 			"name": "Home",
 			"pages": [
-				{ "name": "Business Agency", "url": "/", "id": 1 },
-				{ "name": "IT Agency", "url": "/it-agency", "id": 2 },
-				{
-					"name": "Digital Marketing",
-					"url": "/digital-marketing",
-					"id": 3
-				},
-				{
-					"name": "Startup Agency",
-					"url": "/startup-agency",
-					"id": 4
-				}
+				{ "name": "Business Agency", "url": "/", "id": 1 }
 			]
 		},
 		{
