@@ -48,34 +48,6 @@ const Banner = () => {
 						<i className="flaticon-right-up"></i>
 					</Link>
 				</div>
-				<div
-					className="main-banner-image text-center one"
-					data-aos="fade-in"
-					data-aos-duration="1000"
-					data-aos-delay="100"
-				>
-					<img
-						src={banner && banner.bannerImage1.publicURL}
-						alt="banner"
-					/>
-				</div>
-				<div
-					className="main-banner-image text-center two"
-					data-aos="fade-in"
-					data-aos-duration="1000"
-					data-aos-delay="300"
-				>
-					<img
-						src={banner && banner.bannerImage2.publicURL}
-						alt="banner"
-					/>
-				</div>
-			</div>
-			<div className="shape1">
-				<img src={shape1} alt="shape1" />
-			</div>
-			<div className="shape2">
-				<img src={shape2} alt="shape2" />
 			</div>
 		</div>
 	);
