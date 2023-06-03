@@ -30,7 +30,7 @@ const NavList = ({ menu }) => {
 			>
 				<div className="accordion-body">
 					<div className="accordion">
-						{menu.pages.map((page) => (
+						{menu.pages && menu.pages.map((page) => (
 							<div className="accordion-item" key={page.id}>
 								<AniLink
 									fade
