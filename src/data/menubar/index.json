@@ -3,9 +3,7 @@
 		{
 			"id": 1,
 			"name": "Home",
-			"pages": [
-				{ "name": "Business Agency", "url": "/", "id": 1 }
-			]
+			"url": "/"
 		},
 		{
 			"id": 2,

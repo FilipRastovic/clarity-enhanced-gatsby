@@ -791,6 +791,18 @@ Navbar Area CSS
   font-size: var(--fontSize);
   font-weight: 600;
 }
+.responsive-navbar .offcanvas-body .accordion .accordion-item .accordion-button-link {
+  width: 100%;
+  display: block;
+  box-shadow: unset;
+  position: relative;
+  padding: 0 18px 0 0;
+  color: var(--blackColor);
+  background-color: transparent;
+  transition: var(--transition);
+  font-size: var(--fontSize);
+  font-weight: 600;
+}
 .responsive-navbar .offcanvas-body .accordion .accordion-item .accordion-button::after {
   display: none;
 }
@@ -835,6 +847,17 @@ Navbar Area CSS
   color: var(--primaryColor);
 }
 .responsive-navbar .offcanvas-body .accordion .accordion-item .accordion-collapse .accordion-body .accordion-item .accordion-button {
+  width: 100%;
+  display: block;
+  box-shadow: unset;
+  position: relative;
+  padding: 0 18px 0 0;
+  color: var(--blackColor);
+  background-color: transparent;
+  font-size: 15px;
+  font-weight: 500;
+}
+.responsive-navbar .offcanvas-body .accordion .accordion-item .accordion-collapse .accordion-body .accordion-item .accordion-button-link {
   width: 100%;
   display: block;
   box-shadow: unset;

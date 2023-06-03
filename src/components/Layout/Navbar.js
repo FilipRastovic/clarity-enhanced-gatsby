@@ -11,6 +11,7 @@ const query = graphql`
 			menus {
 				id
 				name
+				url
 				pages {
 					id
 					name
@@ -44,6 +45,8 @@ const Navbar = ({ NavStyleClass = "" }) => {
 		return { className: `nav-link ${activeClass}` };
 	};
 
+	console.log(menus[0])
+
 	return (
 		<>
 			<div className={`navbar-area ${NavStyleClass}`} id="navbar">
@@ -75,30 +78,41 @@ const Navbar = ({ NavStyleClass = "" }) => {
 								{menus &&
 									menus.map((menu) => (
 										<li className="nav-item" key={menu.id}>
-											<Link
-												to="/"
-												className="dropdown-toggle nav-link"
-											>
-												{menu.name}
-											</Link>
-
-											<ul className="dropdown-menu">
-												{menu.pages.map((page) => (
-													<li
-														className="nav-item"
-														key={page.id}
-													>
-														<AniLink
-															fade
-															to={page.url}
-															activeClassName="active"
-															getProps={isActive}
+											{menu.pages ? 
+												<Link
+													to='/'
+													className="dropdown-toggle nav-link"
+												>
+													{menu.name}
+												</Link>
+											:
+												<Link
+													to={menu.url}
+													className="nav-link"
+												>
+													{menu.name}
+												</Link>
+											}
+											
+											{menu.pages && (
+												<ul className="dropdown-menu">
+													{menu.pages.map((page) => (
+														<li
+															className="nav-item"
+															key={page.id}
 														>
-															{page.name}
-														</AniLink>
-													</li>
-												))}
-											</ul>
+															<AniLink
+																fade
+																to={page.url}
+																activeClassName="active"
+																getProps={isActive}
+															>
+																{page.name}
+															</AniLink>
+														</li>
+													))}
+												</ul>
+											)}
 										</li>
 									))}
 							</ul>
