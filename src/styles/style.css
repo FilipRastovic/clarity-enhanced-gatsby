@@ -806,7 +806,7 @@ Navbar Area CSS
 .responsive-navbar .offcanvas-body .accordion .accordion-item .accordion-button::after {
   display: none;
 }
-.responsive-navbar .offcanvas-body .accordion .accordion-item .accordion-button::before {
+.responsive-navbar .offcanvas-body .accordion .accordion-item .accordion-button::before  {
   transform: translateY(-50%);
   position: absolute;
   content: "\f1b2";
@@ -818,6 +818,12 @@ Navbar Area CSS
   font-weight: 600;
   font-size: 15px;
 }
+
+/* override dropdown arrow on pure links */
+.responsive-navbar .offcanvas-body .accordion .accordion-item a .accordion-button::before  {
+  content: none;
+}
+
 .responsive-navbar .offcanvas-body .accordion .accordion-item .accordion-button.without-icon::before {
   display: none;
 }
