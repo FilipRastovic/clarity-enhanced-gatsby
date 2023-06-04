@@ -9,6 +9,7 @@ const query = graphql`
 			menus {
 				id
 				name
+				url
 				pages {
 					id
 					name
